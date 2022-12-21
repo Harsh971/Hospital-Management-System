@@ -27,5 +27,41 @@ Basic Instruction Statements Here...
   ```sh
   https://www.apachefriends.org/download.html
   ```
-  
- - [Click Here](#) to access full Step-by-Step Instruction for Xampp Installation and Working
+- [Click Here](#) to access full Step-by-Step Instruction for Xampp Installation and Working
+
+<br>
+
+## Initiating Source Code :
+- Download the Repository to your local storage.
+- Paste the Project Folder to the below Directed Location in your system.
+ ``
+ C:\xampp\htdocs\
+  ``
+- Start **Apache** and **MySQL** Server from XAMPP Panel.
+- Open **phpMyAdmin** from XAMPP Dashboard.
+- Select **Import** section in phpMyAdmin Panel.
+- Choose the SQL file from the below location and click **GO** on the bottom of the page.
+ ``
+ C:\xampp\htdocs\Hospital_Management_System\SQL_File\hms.sql
+  ``
+
+<br>
+
+## Running the Project :
+- Start **Apache** and **MySQL** Server from XAMPP Panel.
+- Just Paste the following URL on your Favorite Browser in your System and Enjoy😉.
+ ``
+http://localhost:80/Hospital_management_System/main/
+  ``
+
+<br>
+
+## Feedback
+If you have any feedback, please reach out to us at harsh.thakkar0369@gmail.com
+
+## <img src="https://t3.ftcdn.net/jpg/03/55/16/48/360_F_355164871_fQLc5jgqvYaqKbrlM20WQ09r1xqune1J.jpg" alt="harshthakkar971" width="30" /> Connect with Me
+<p>
+  	<a href="https://linkedin.com/in/harsh-thakkar-7764bb1a4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
+  &nbsp;&nbsp;
+ <a href="https://instagram.com/harsh_thakkar09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="harsh_thakkar09" height="40" width="40" /></a>
+</p>
